@@ -2,9 +2,9 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on improving my coding skills and building real-life projects in C++ and Java.<br>🤝 I’m looking to collaborate on open-source projects and innovative tech ideas.<br>🫱 I’m looking for help with optimizing algorithms and mastering advanced problem-solving techniques.<br>🌱 I’m currently learning Operating Systems, Object-Oriented Programming, and Data Structures.<br>💬 Ask me about C++, Java, python,sqlor tips for coding interviews. 
-# 💫 About Me:
 I’m a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, and Software Development. I enjoy building practical projects that solve real-world problems and exploring new technologies.<br><br>Currently, I’m improving my skills in Python, Java, Web Development, AI/ML, Git, and GitHub while working on projects that combine technology and innovation. I’m also interested in AI-powered applications, automation, and problem solving.<br><br>I’m always eager to learn, build, collaborate, and turn ideas into meaningful projects.
+
+🔭 I’m currently working on improving my coding skills and building real-life projects in C++ and Java.<br>🤝 I’m looking to collaborate on open-source projects and innovative tech ideas.<br>🫱 I’m looking for help with optimizing algorithms and mastering advanced problem-solving techniques.<br>🌱 I’m currently learning Operating Systems, Object-Oriented Programming, and Data Structures.<br>💬 Ask me about C++, Java, python,sqlor tips for coding interviews. 
 
 
 ## 🌐 Socials:
